@@ -30,7 +30,7 @@ Then, we display the menu of choices to the user. The user can revisit an option
 
 ### Option 1: Send a package
 
-This option asks the user to provide an address to send the package to. In the main function, this address is displayed back to the user for confirmation.
+This option asks the user to provide a direction (N, E, S, W) to send the package to. In the main function, this direction is displayed back to the user for confirmation.
 
 ### Option 2: Buy stamps
 
