@@ -26,7 +26,7 @@ Then, we display the menu of choices to the user. The user can revisit an option
 (3) Leave the facility
 ```
 
-***IMPORTANT HINT:*** __The menu itself should be a function AND options (1) and (2) should be separate functions as well. This means 3 functions total plus the main function.__
+***IMPORTANT HINT:*** __The menu itself should be a function AND options (1) and (2) should be separate functions as well. This means 3 functions total plus the main function. Each of your functions should be of type `void`. Use pass by address as necessary!__
 
 ### Option 1: Send a package
 
@@ -34,11 +34,15 @@ This option asks the user to provide a direction (N, E, S, W) to send the packag
 
 ### Option 2: Buy stamps
 
-This option should allow the user to purchase a number of stamps and display the total back to them.
+This option should allow the user to purchase a number of stamps and display the total back to them. Each stamp costs `$0.20`.
 
 ### Option 3: Leave the facility
 
 This option should exit the program.
+
+## Example Execution
+
+![image](https://user-images.githubusercontent.com/89322661/224507887-3f3a4483-03a4-429d-9aa7-54ff97dac731.png)
 
 # Now it's time to give it a try!
 ## Need help? Post a follow-up question to the original Piazza discussion post __or__ ***come to my workshop hours!***
